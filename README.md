@@ -20,6 +20,10 @@ Apply ,Feature Encoding, Feature Scaling and Feature transformation and selectio
 Apply data visualization techniques to identify the patterns of the data.
 
 ### Program And Output:
+```
+Developed By: DIVYA K
+Reg No: 212222230035
+```
 Importing necessary packages:
 ```
 import pandas as pd
